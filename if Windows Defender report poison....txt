@@ -1,0 +1,5 @@
+If your Windows Defender report poison:
+1.open settings > Update & Safe > Windows Defender > Open Windows Defender
+2.Windows Defender > Virus and threat protection > Manage settings > Add or remove exclusions
+3.Press "Yes" > Creat exclusions > File > |Choose the location of your script| > Open
+4.Finish > close the window
